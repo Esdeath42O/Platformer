@@ -1,2 +1,2 @@
 # Platformer
-gstv and me, tryna make a platformer with javascript
+Javascript Webgame by Lukas and Gustav
