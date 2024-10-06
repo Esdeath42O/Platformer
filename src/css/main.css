@@ -1,0 +1,33 @@
+/* Ensure images maintain the 450x250 aspect ratio */
+.fixed-aspect-ratio {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 450 / 250;
+    object-fit: cover; /* Ensures image covers the container without stretching */
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.fixed-aspect-ratio:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+/* Ensure images maintain the 450x250 aspect ratio */
+.fixed-aspect-ratio {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 450 / 250;
+    object-fit: cover; /* Ensures image covers the container without stretching */
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.fixed-aspect-ratio:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+/* Optional: Add padding to the image row */
+.row {
+    padding-top: 5rem; /* Adjust this value to control spacing */
+}
+
