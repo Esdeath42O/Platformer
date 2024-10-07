@@ -1,2 +1,2 @@
-# Platformer
-Javascript Webgame by Lukas and Gustav
+# Uno
+Uno webgame by Lukas and Gustav
